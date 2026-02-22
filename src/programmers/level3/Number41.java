@@ -1,4 +1,4 @@
-package programmers.level2;
+package programmers.level3;
 
 // url : https://school.programmers.co.kr/learn/courses/30/lessons/12930
 public class Number41 {
