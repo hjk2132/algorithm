@@ -1,4 +1,4 @@
-package codeTree.trail2.chapter1;
+package codeTree.trail2.chapter1.lesson1;
 
 // url : https://www.codetree.ai/ko/trails/complete/curated-cards/intro-repeat-shooting-the-stars-five-times/introduction
 public class Number1 {
