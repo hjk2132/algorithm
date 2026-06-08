@@ -1,4 +1,4 @@
-package codeTree.trail2;
+package codeTree.trail2.chapter1.lesson2;
 
 import java.util.Scanner;
 
